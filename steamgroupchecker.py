@@ -1,5 +1,5 @@
 """
-Simple python script designed to test the whether steam groups are OG or not.
+Simple python script designed to test the whether steam groups use unicode or not.
 """
 
 import requests
