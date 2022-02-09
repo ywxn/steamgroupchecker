@@ -1,5 +1,5 @@
 """
-Simple python script designed to test the whether steam groups are OG or not.
+Simple python script designed to test the whether steam groups have an original name or tag.
 """
 
 import requests
